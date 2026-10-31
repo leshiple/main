@@ -1,0 +1,3 @@
+[submodule ".agents/shared-skills"]
+	path = .agents/shared-skills
+	url = git@github.com:leshiple/sub.git
